@@ -1,0 +1,199 @@
+openapi: 3.0.0
+info:
+  description: This API is used for fulfillment of food delivery requests
+  version: "1.0.0"
+  title: Food Delivery API
+  contact:
+    email: shivar.vishal.pillay@gmail.com
+paths:
+  /request/restaurant:
+    post:
+      tags:
+        - Restaurant
+      summary: reports customers request to restaurant
+      operationId: app.report_restaurant_request
+      description: Reports customer's request to the restaurant
+      responses:
+        '201':
+          description: request received
+        '400':
+          description: bad input parameter
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RestaurantRequest'
+        description: Reading request to add
+    get:
+      tags:
+        - Restaurant
+      summary: reports customers request to restaurant 
+      operationId: app.get_restaurant_request
+      description: Get customer's request to the restaurant 
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: '2016-08-29 09:12:33.001'
+        - name: end_date
+          in: query
+          description: Limits the number of items on a page (end page)
+          schema:
+            type: string
+            format: date-time
+            example: '2022-04-16 23:16:50.000'
+      responses:
+        '200':
+          description: Successfully returned a list of restaurant events
+          content:
+            application/json:
+              schema:
+                type: array 
+                items:
+                  $ref: '#/components/schemas/RestaurantRequest'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /request/delivery:
+    post:
+      tags:
+        - Delivery Driver
+      summary: reports driver to delivery request
+      operationId: app.report_delivery_request
+      description: Reports delivery driver to resaurant and customer
+      responses:
+        '201':
+          description: request received
+        '400':
+          description: bad input parameter
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DeliveryRequest'
+        description: Reading request to add
+    get:
+      tags:
+        - Delivery
+      summary: gets new customers request to delivery
+      operationId: app.get_delivery_request
+      description: Gets delivery drvier's request to the restaurant and customer
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: '2016-08-29 09:12:33.001'
+        - name: end_date
+          in: query
+          description: Limits the number of items on a page (end page)
+          schema:
+            type: string
+            format: date-time
+            example: '2022-04-16 23:16:50.000'
+      responses:
+        '200':
+          description: Successfully returned a list of delivery events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/DeliveryRequest'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /health:
+    get:
+      tags:
+        - devices
+      summary: checks health of API
+      operationId: app.get_health
+      description: Checks service health
+      responses:
+        '200':
+          description: Sucessful Health Checks
+        '400':
+          description: bad health request
+
+
+components:
+  schemas:
+    RestaurantRequest:
+      required:
+      - customer_id
+      - order_id
+      - food_order
+      - time_stamp
+      properties:
+        customer_id:
+          type: string
+          format: uuid
+          example: e370c25c-118d-11ec-82a8-0242ac130003
+        order_id:
+          type: string
+          example: 0034829
+        food_order:
+          $ref: '#/components/schemas/FoodOrder'
+        time_stamp:
+          type: string
+          format: date-time
+          example: '2021-6-23T15:12:43'
+      type: object
+    
+    DeliveryRequest:
+      required:
+      - order_id
+      - food_order
+      - pickup_address
+      - order_address
+      properties:
+        order_id:
+          type: string
+          example: 003482
+        food_order:
+          $ref: '#/components/schemas/FoodOrder'
+        order_address:
+          type: string
+          example: '3842 23rd Street Vancouver FJ2KLS'
+        pickup_address:
+          type: string
+          example: 'Resturant Name - 4328 Elmer Street Burnaby FJ592JF'
+      type: object
+    
+    
+    FoodOrder:
+      required:
+      - item_id
+      - quantity
+      - price
+      properties:
+        item_id:
+          type: integer
+          example: 00025
+        quantity:
+          type: integer
+          example: 001
+        price:
+          type: integer
+          example: 3292
+      type: object

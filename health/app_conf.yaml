@@ -1,0 +1,7 @@
+version: 0.1 
+datastore: 
+  filename: /data/stats.sqlite 
+scheduler: 
+  period_sec: 20
+eventstore: 
+  url: http://localhost:8120

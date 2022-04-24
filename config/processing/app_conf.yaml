@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  filename: stats.sqlite
+scheduler:
+  period_sec: 5
+eventstore:
+  url1: http://localhost:8090/request/delivery
+  url2: http://localhost:8090/request/restaurant
+events:
+  hostname: bcitacit3855.westus.cloudapp.azure.com
+  port: 9092
+  topic: request

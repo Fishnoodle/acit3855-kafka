@@ -1,0 +1,67 @@
+openapi: 3.0.0
+info:
+  description: This API is used for fulfillment of food delivery requests
+  version: "1.0.0"
+  title: Food Delivery API
+  contact:
+    email: shivar.vishal.pillay@gmail.com
+paths:
+  /stats:
+    get:
+      summary: Get the event stats
+      operationId: app.get_stats
+      description: Gets Restaurant and Delivery processed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of Restaurant and Delivery events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /health:
+    get:
+      tags:
+        - devices
+      summary: checks health of API
+      operationId: app.get_health
+      description: Checks service health
+      responses:
+        '200':
+          description: Sucessful Health Checks
+        '400':
+          description: bad health request
+
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_orders_total
+      - max_quantity
+      - min_quantity
+      - num_customers_total
+      properties:
+        num_orders_total:
+          type: integer
+          example: 500
+        max_quantity:
+          type: integer
+          example: 2500
+        min_quantity:
+          type: integer
+          example: 10
+        num_customers_total:
+          type: integer
+          example: 3500
+      type: object

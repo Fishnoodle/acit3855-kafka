@@ -1,0 +1,186 @@
+openapi: 3.0.0
+info:
+  description: This API provides audit info
+  version: "1.0.0"
+  title: Audit API
+  contact:
+    email: spillay14@my.bcit.ca
+  
+paths:
+  /request/restaurant:
+    get:
+      summary: gets restaurant reading from history
+      operationId: app.get_restaurant_reading
+      description: Gets customer's request to the restaurant
+      parameters:
+        - name: index
+          in: query
+          description: Gets the request at the index in the event store
+          schema:
+            type: integer
+            example: 10
+      responses:
+        '200':
+          description: Successfully returned a restaurant request event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/RestaurantRequest'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                properties:
+                  message:
+                    type: string
+  /request/delivery:
+    get:
+      summary: gets a delivery request from history
+      operationId: app.get_delivery_reading
+      description: Gets event from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the event at the index in the event store
+          schema:
+            type: integer
+            example: 10
+      responses:
+        '200':
+          description: Successfully returned a delivery request event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/DeliveryRequest'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /health:
+    get:
+      tags:
+        - devices
+      summary: checks health of API
+      operationId: app.get_health
+      description: Checks service health
+      responses:
+        '200':
+          description: Sucessful Health Checks
+        '400':
+          description: bad health request
+
+components:
+  schemas:
+    RestaurantRequest:
+      required:
+      - customer_id
+      - order_id
+      - food_order
+      - time_stamp
+      properties:
+        customer_id:
+          type: string
+          format: uuid
+          example: e370c25c-118d-11ec-82a8-0242ac130003
+        order_id:
+          type: string
+          example: 0034829
+        food_order:
+          $ref: '#/components/schemas/FoodOrder'
+        time_stamp:
+          type: string
+          format: date-time
+          example: '2022-04-16T23:16:50.000Z'
+      type: object
+    
+
+components:
+  schemas:
+    RestaurantRequest:
+      required:
+      - customer_id
+      - order_id
+      - food_order
+      - time_stamp
+      properties:
+        customer_id:
+          type: string
+          format: uuid
+          example: e370c25c-118d-11ec-82a8-0242ac130003
+        order_id:
+          type: string
+          example: 0034829
+        food_order:
+          $ref: '#/components/schemas/FoodOrder'
+        time_stamp:
+          type: string
+          format: date-time
+          example: '2022-04-16T23:16:50.000Z'
+      type: object
+    
+    DeliveryRequest:
+      required:
+      - order_id
+      - food_order
+      - pickup_address
+      - order_address
+      properties:
+        order_id:
+          type: string
+          example: 003482
+        food_order:
+          $ref: '#/components/schemas/FoodOrder'
+        order_address:
+          type: string
+          example: '3842 23rd Street Vancouver FJ2KLS'
+        pickup_address:
+          type: string
+          example: 'Resturant Name - 4328 Elmer Street Burnaby FJ592JF'
+      type: object
+    
+    
+    FoodOrder:
+      required:
+      - item_id
+      - quantity
+      - price
+      properties:
+        item_id:
+          type: integer
+          example: 00025
+        quantity:
+          type: integer
+          example: 001
+        price:
+          type: integer
+          example: 3292
+      type: object

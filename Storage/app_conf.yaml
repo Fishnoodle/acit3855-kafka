@@ -1,0 +1,14 @@
+version: 1
+database_config:
+  user: root
+  password: password
+  hostname: bcitacit3855.westus.cloudapp.azure.com
+  port: 3306
+  db: request
+events:
+  hostname: bcitacit3855.westus.cloudapp.azure.com
+  port: 9092
+  topic: events
+connecting_kafka:
+  retry_count_max: 10
+  time_sleep: 5

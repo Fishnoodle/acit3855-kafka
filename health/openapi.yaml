@@ -1,0 +1,20 @@
+openapi: 3.0.0
+info:
+  description: This API is used for fulfillment of food delivery requests
+  version: "1.0.0"
+  title: Food Delivery API
+  contact:
+    email: shivar.vishal.pillay@gmail.com
+paths:
+  /health:
+    get:
+      tags:
+        - devices
+      summary: checks health of API
+      operationId: app.get_health
+      description: Checks service health
+      responses:
+        '200':
+          description: Sucessful Health Checks
+        '400':
+          description: bad health request

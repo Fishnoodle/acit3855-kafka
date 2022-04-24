@@ -1,0 +1,320 @@
+2022-02-03 10:12:55,208 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8bb1d54-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,230 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8c0ee28-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,262 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8c71654-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,268 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8c7642e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,281 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ca2902-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,282 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ca6a0c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,294 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8cc35e4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,295 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8cc68fc-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,306 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ce13a0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,307 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ce4866-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,318 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8cfeaae-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,319 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8d02046-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,332 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8d1feac-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,333 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8d24614-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,344 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8d3e5aa-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,345 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8d4116a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,362 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8d65a42-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,363 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8d692d2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,366 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8d6d79c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,374 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8d891c2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,379 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8d9254c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,381 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8d97fba-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,388 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8dab2ae-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,397 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8db9e30-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,398 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8dbf254-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,399 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8dc3d7c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,414 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8de5026-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,415 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8de9310-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,416 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8ded488-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,430 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8e0c482-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,430 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8e0f664-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,431 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8e133fe-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,449 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8e37aa6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,449 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8e34202-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,450 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8e3d99c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,455 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8e4aff2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,466 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8e6a5d2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,476 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8e782a4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,476 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8e7b8e6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,477 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8e804b8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,480 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8e84ec8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,496 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8eb03fc-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,498 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ead2ba-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,498 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8eb389a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,500 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8eb8c82-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,515 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8edbfca-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,515 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8edf1ac-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,518 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ee327a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,519 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ee83e2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,545 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8f24efa-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,550 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8f2af26-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,550 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8f1ddb2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,552 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8f37c94-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,557 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8f47414-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,565 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8f5b1d0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,577 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8f72ee8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,581 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8f78ae6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,584 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8f7ea68-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,586 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8f84dc8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,586 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8f8cd66-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,593 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8f9b618-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,610 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8fc425c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,611 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8fc7c40-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,613 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8fcc920-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,627 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8fedc6a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,628 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e8ff1504-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,629 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e8ff59a6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,641 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9011a7a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,643 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9016052-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,644 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e901af58-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,661 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9042f6c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,661 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e903e200-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,663 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9046f68-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,665 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e904ba9a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,680 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e907039a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,682 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9073946-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,683 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9077b4a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,684 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e907c65e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,701 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e90a4352-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,703 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e90a5d74-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,705 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e90ae726-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,706 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e90aa0a4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,721 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e90d3940-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,723 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e90d75ae-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,725 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e90db0aa-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,726 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e90df6fa-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,742 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e91042a2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,743 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e910759c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,744 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e910acba-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,745 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e910ec5c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,758 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9130780-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,759 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9135000-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,765 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e914057c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,767 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e91461c0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,774 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e915779a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,775 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e915b20a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,782 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9169e18-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,783 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e916d9f0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,791 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9183548-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,799 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e918ecfe-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,802 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9198498-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,803 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e91937ea-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,804 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e919eb2c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,819 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e91c213a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,819 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e91c593e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,822 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e91ca13c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,823 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e91ce318-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,842 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e91f6822-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,845 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e91fa490-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,845 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e91fed88-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,848 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9208608-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,869 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e923e186-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,871 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9239cb2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,871 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e92430a0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,873 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e924853c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,894 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e92732a0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,894 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9276c5c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,895 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e927b9c8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,895 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e927ee84-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,913 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e92aa886-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,917 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e92aeb0c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,919 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e92b485e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,920 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e92b95f2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,928 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e92d1f08-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,938 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e92e7448-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,941 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e92ebeb2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,946 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e92f1768-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,947 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e92f9cb0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,966 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9325996-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,969 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e932aedc-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,971 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e932ff04-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,973 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e93381f4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,976 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9340a16-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,986 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e935bfb4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,996 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9371a3a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:55,998 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9377ba6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,000 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e937e438-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,003 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e93876d2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,018 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e93a5830-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,022 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e93ab262-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,022 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e93af9a2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,024 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e93b84f8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,032 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e93cee6a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,046 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e93ed324-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,046 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e93e972e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,052 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e93f2928-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,052 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e93fd5da-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,057 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e940a32a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,068 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9426084-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,073 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9432924-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,084 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e944cc66-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,093 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e945e0d8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,097 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9466472-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,097 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e94601f8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,098 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e946cb24-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,140 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e94d071e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,140 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e94cbfb6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,144 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e94d6c9a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,146 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e94dd6ee-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,164 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9509ec4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,167 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e950fef0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,168 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9515300-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,170 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e951c092-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,191 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9547832-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,191 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e954b928-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,192 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e954f83e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,193 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e95549ce-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,213 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e95817a8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,217 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9587c84-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,219 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e958cc48-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,219 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e959541a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,238 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e95c041c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,239 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e95c4620-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,241 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e95c917a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,257 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e95ed4b2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,258 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e95f27fa-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,259 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e95f5f2c-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,274 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9619260-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,275 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e961c938-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,276 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e96211a4-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,291 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9642782-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,292 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e964905a-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,292 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e96464d6-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,304 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9664ada-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,306 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e9668afe-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,307 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e966def0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,320 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e9688a3e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,320 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e968bcfc-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,321 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e968f3f2-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,334 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e96ad7d0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,335 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e96b15d8-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,355 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e96dfd8e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,355 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e96e34fc-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,365 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e96fb80e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,366 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e96fe91e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,375 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e97145fc-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,383 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e972830e-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,390 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e973a572-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,398 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of e974cec0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:12:56,406 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of e97605b0-851c-11ec-8029-acde48001122 + 
+2022-02-03 10:20:42,908 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of ff82824c-851d-11ec-9018-acde48001122 + 
+2022-02-03 10:21:06,954 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of 0dd965ea-851e-11ec-9018-acde48001122 + 
+2022-02-10 09:14:56,094 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f7c8bd4c-8a94-11ec-bbfb-acde48001122 + 
+2022-02-10 10:12:07,967 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f56bd4f0-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:08,452 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f5c47c18-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:08,609 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f5dc26f6-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:08,948 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f60ffbb6-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:09,096 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f626e5ba-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:09,386 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f6532d82-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:09,542 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f66ae756-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:09,710 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f6845c86-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:09,826 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f6964252-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:09,982 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f6adee0c-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:10,107 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f6c128fa-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-10 10:12:10,291 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of f6dc9284-8a9c-11ec-bb5e-acde48001122 + 
+2022-02-22 20:15:56,951 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of 4c95a56e-945f-11ec-95fe-acde48001122 + 
+2022-02-24 10:16:55,128 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:17:19,497 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:18:15,365 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:19:27,768 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:19:38,507 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:20:09,459 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:20:45,349 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:21:21,781 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:25:28,093 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:27:04,755 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:27:42,580 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:28:19,223 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of 8a2bc872-959f-11ec-b220-acde48001122 + 
+2022-02-24 10:28:20,129 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of 8ab7a496-959f-11ec-b220-acde48001122 + 
+2022-02-24 10:28:20,565 - basicLogger - DEBUG - Stored event <restaurant> request with a trace id of 8af9b3c2-959f-11ec-b220-acde48001122 + 
+2022-02-24 10:28:35,276 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:29:31,214 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:30:24,011 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:31:03,671 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:32:18,987 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:33:11,921 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:33:56,510 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:34:10,744 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:34:25,809 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:34:56,951 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:35:15,539 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:35:46,421 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-02-24 10:36:04,184 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 22:52:46,990 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:04:35,477 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:04:40,468 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:04:45,467 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:04:50,470 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:04:55,461 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:00,463 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:05,460 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:10,463 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:15,467 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:20,466 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:25,480 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:30,462 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:35,468 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:40,465 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:45,464 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:50,469 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:05:55,464 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:00,469 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:05,462 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:10,461 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:15,469 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:20,463 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:25,466 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:30,468 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:35,466 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:40,462 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:45,469 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:50,464 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:06:55,462 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:00,470 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:05,470 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:10,471 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:15,465 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:20,469 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:25,467 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:30,464 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:35,468 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:40,469 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:45,460 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:07:50,461 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:08:22,410 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of 35825758-9d1c-11ec-8a06-a683e7110f03 + 
+2022-03-05 23:08:34,689 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of 3cd4c64e-9d1c-11ec-8a06-a683e7110f03 + 
+2022-03-05 23:08:55,648 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:09:09,259 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:09:14,244 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-05 23:53:29,024 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-06 00:04:14,668 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-09 23:00:53,340 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-09 23:05:22,939 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-09 23:10:02,603 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 00:16:12,652 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 00:16:38,458 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 00:16:43,446 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 00:17:26,675 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 00:17:31,667 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 00:17:57,349 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 01:26:09,163 - basicLogger - INFO - Query for Delivery Requst Complete
+2022-03-10 01:26:11,534 - basicLogger - DEBUG - Stored event <delivery> request with a trace id of 1fefe3d4-a054-11ec-b4cb-a683e7110f03 + 
+2022-04-07 09:15:16,752 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-07 09:15:16,752 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-07 09:16:49,748 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-07 09:16:49,749 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-11 17:51:13,384 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-11 17:51:13,384 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-11 17:51:50,012 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-11 17:51:50,013 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-11 17:52:52,761 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-11 17:52:52,761 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-11 17:53:03,637 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-11 17:53:03,638 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-11 17:53:03,692 - basicLogger - INFO - Connecting to db Hostname:bcitacit3855.westus.cloudapp.azure.com ; Port:9092
+2022-04-11 17:53:03,692 - basicLogger - INFO - Connecting to Kafka and the current retry count is 1
+2022-04-11 18:13:33,191 - basicLogger - INFO - App Conf File: app_conf.yaml
+2022-04-11 18:13:33,192 - basicLogger - INFO - Log Conf File: log_conf.yaml
+2022-04-11 18:13:33,248 - basicLogger - INFO - Connecting to db Hostname:bcitacit3855.westus.cloudapp.azure.com ; Port:9092
+2022-04-11 18:13:33,249 - basicLogger - INFO - Connecting to Kafka and the current retry count is 1

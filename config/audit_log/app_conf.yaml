@@ -1,0 +1,10 @@
+version: 1
+eventstore1:
+  url: http://localhost:8090/request/restaurant_event
+eventstore2:
+  url: http://localhost:8090/request/delivery_event
+  
+kafka:
+  server: bcitacit3855.westus.cloudapp.azure.com
+  port: 9902
+  topic: request
