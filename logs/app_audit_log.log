@@ -11133,3 +11133,227 @@
 2022-04-24 03:19:04,678 - basicLogger - ERROR - Could not find Restaurant at index 5
 2022-04-24 03:19:05,520 - basicLogger - ERROR - Could not find Restaurant at index 13
 2022-04-24 03:19:05,579 - basicLogger - INFO - Retrieving Delivery at index 7
+2022-04-24 03:19:08,669 - basicLogger - INFO - Retrieving Delivery at index 98
+2022-04-24 03:19:09,656 - basicLogger - INFO - Retrieving Restaurant at index 38
+2022-04-24 03:19:09,678 - basicLogger - ERROR - Could not find Delivery at index 98
+2022-04-24 03:19:10,666 - basicLogger - ERROR - Could not find Restaurant at index 38
+2022-04-24 03:19:11,236 - basicLogger - INFO - Retrieving Restaurant at index 40
+2022-04-24 03:19:11,239 - basicLogger - INFO - Retrieving Delivery at index 37
+2022-04-24 03:19:12,250 - basicLogger - ERROR - Could not find Restaurant at index 40
+2022-04-24 03:19:12,255 - basicLogger - ERROR - Could not find Delivery at index 37
+2022-04-24 03:19:14,662 - basicLogger - INFO - Retrieving Delivery at index 83
+2022-04-24 03:19:15,662 - basicLogger - INFO - Retrieving Restaurant at index 77
+2022-04-24 03:19:16,492 - basicLogger - INFO - Retrieving Delivery at index 59
+2022-04-24 03:19:16,494 - basicLogger - INFO - Retrieving Restaurant at index 75
+2022-04-24 03:19:16,671 - basicLogger - ERROR - Could not find Restaurant at index 77
+2022-04-24 03:19:17,503 - basicLogger - ERROR - Could not find Delivery at index 59
+2022-04-24 03:19:17,508 - basicLogger - ERROR - Could not find Restaurant at index 75
+2022-04-24 03:19:19,660 - basicLogger - INFO - Retrieving Delivery at index 26
+2022-04-24 03:19:21,657 - basicLogger - INFO - Retrieving Restaurant at index 58
+2022-04-24 03:19:22,669 - basicLogger - ERROR - Could not find Restaurant at index 58
+2022-04-24 03:19:22,956 - basicLogger - INFO - Retrieving Restaurant at index 50
+2022-04-24 03:19:22,959 - basicLogger - INFO - Retrieving Delivery at index 17
+2022-04-24 03:19:23,967 - basicLogger - ERROR - Could not find Restaurant at index 50
+2022-04-24 03:19:23,974 - basicLogger - ERROR - Could not find Delivery at index 17
+2022-04-24 03:19:24,666 - basicLogger - INFO - Retrieving Delivery at index 16
+2022-04-24 03:19:25,675 - basicLogger - ERROR - Could not find Delivery at index 16
+2022-04-24 03:19:27,660 - basicLogger - INFO - Retrieving Restaurant at index 52
+2022-04-24 03:19:28,670 - basicLogger - ERROR - Could not find Restaurant at index 52
+2022-04-24 03:19:28,867 - basicLogger - INFO - Retrieving Delivery at index 55
+2022-04-24 03:19:28,870 - basicLogger - INFO - Retrieving Restaurant at index 50
+2022-04-24 03:19:29,879 - basicLogger - ERROR - Could not find Delivery at index 55
+2022-04-24 03:19:29,884 - basicLogger - ERROR - Could not find Restaurant at index 50
+2022-04-24 03:19:30,672 - basicLogger - INFO - Retrieving Delivery at index 37
+2022-04-24 03:19:31,682 - basicLogger - ERROR - Could not find Delivery at index 37
+2022-04-24 03:19:33,666 - basicLogger - INFO - Retrieving Restaurant at index 55
+2022-04-24 03:19:34,676 - basicLogger - ERROR - Could not find Restaurant at index 55
+2022-04-24 03:19:34,728 - basicLogger - INFO - Retrieving Delivery at index 30
+2022-04-24 03:19:34,731 - basicLogger - INFO - Retrieving Restaurant at index 28
+2022-04-24 03:19:35,740 - basicLogger - ERROR - Could not find Delivery at index 30
+2022-04-24 03:19:35,745 - basicLogger - ERROR - Could not find Restaurant at index 28
+2022-04-24 03:19:36,665 - basicLogger - INFO - Retrieving Delivery at index 30
+2022-04-24 03:19:37,675 - basicLogger - ERROR - Could not find Delivery at index 30
+2022-04-24 03:19:39,656 - basicLogger - INFO - Retrieving Restaurant at index 22
+2022-04-24 03:19:40,668 - basicLogger - ERROR - Could not find Restaurant at index 22
+2022-04-24 03:19:40,854 - basicLogger - INFO - Retrieving Delivery at index 20
+2022-04-24 03:19:40,856 - basicLogger - INFO - Retrieving Restaurant at index 83
+2022-04-24 03:19:41,868 - basicLogger - ERROR - Could not find Restaurant at index 83
+2022-04-24 03:19:42,675 - basicLogger - INFO - Retrieving Delivery at index 91
+2022-04-24 03:19:43,685 - basicLogger - ERROR - Could not find Delivery at index 91
+2022-04-24 03:19:45,661 - basicLogger - INFO - Retrieving Restaurant at index 83
+2022-04-24 03:19:45,967 - basicLogger - INFO - Retrieving Delivery at index 71
+2022-04-24 03:19:45,968 - basicLogger - INFO - Retrieving Restaurant at index 16
+2022-04-24 03:19:46,670 - basicLogger - ERROR - Could not find Restaurant at index 83
+2022-04-24 03:19:46,980 - basicLogger - ERROR - Could not find Delivery at index 71
+2022-04-24 03:19:46,984 - basicLogger - ERROR - Could not find Restaurant at index 16
+2022-04-24 03:19:48,686 - basicLogger - INFO - Retrieving Delivery at index 77
+2022-04-24 03:19:49,697 - basicLogger - ERROR - Could not find Delivery at index 77
+2022-04-24 03:19:51,665 - basicLogger - INFO - Retrieving Restaurant at index 84
+2022-04-24 03:19:51,740 - basicLogger - INFO - Retrieving Restaurant at index 88
+2022-04-24 03:19:51,743 - basicLogger - INFO - Retrieving Delivery at index 75
+2022-04-24 03:19:52,675 - basicLogger - ERROR - Could not find Restaurant at index 84
+2022-04-24 03:19:52,752 - basicLogger - ERROR - Could not find Restaurant at index 88
+2022-04-24 03:19:52,757 - basicLogger - ERROR - Could not find Delivery at index 75
+2022-04-24 03:19:54,667 - basicLogger - INFO - Retrieving Delivery at index 71
+2022-04-24 03:19:55,676 - basicLogger - ERROR - Could not find Delivery at index 71
+2022-04-24 03:19:57,659 - basicLogger - INFO - Retrieving Restaurant at index 2
+2022-04-24 03:19:57,817 - basicLogger - INFO - Retrieving Restaurant at index 34
+2022-04-24 03:19:57,829 - basicLogger - INFO - Retrieving Delivery at index 91
+2022-04-24 03:19:58,669 - basicLogger - ERROR - Could not find Restaurant at index 2
+2022-04-24 03:19:58,829 - basicLogger - ERROR - Could not find Restaurant at index 34
+2022-04-24 03:19:58,840 - basicLogger - ERROR - Could not find Delivery at index 91
+2022-04-24 03:20:00,672 - basicLogger - INFO - Retrieving Delivery at index 89
+2022-04-24 03:20:03,655 - basicLogger - INFO - Retrieving Restaurant at index 76
+2022-04-24 03:20:03,810 - basicLogger - INFO - Retrieving Restaurant at index 96
+2022-04-24 03:20:03,814 - basicLogger - INFO - Retrieving Delivery at index 57
+2022-04-24 03:20:04,664 - basicLogger - ERROR - Could not find Restaurant at index 76
+2022-04-24 03:20:04,822 - basicLogger - ERROR - Could not find Restaurant at index 96
+2022-04-24 03:20:04,827 - basicLogger - ERROR - Could not find Delivery at index 57
+2022-04-24 03:20:05,657 - basicLogger - INFO - Retrieving Delivery at index 84
+2022-04-24 03:20:09,663 - basicLogger - INFO - Retrieving Restaurant at index 32
+2022-04-24 03:20:09,757 - basicLogger - INFO - Retrieving Delivery at index 64
+2022-04-24 03:20:09,760 - basicLogger - INFO - Retrieving Restaurant at index 2
+2022-04-24 03:20:10,674 - basicLogger - ERROR - Could not find Restaurant at index 32
+2022-04-24 03:20:10,682 - basicLogger - INFO - Retrieving Delivery at index 77
+2022-04-24 03:20:10,774 - basicLogger - ERROR - Could not find Restaurant at index 2
+2022-04-24 03:20:11,692 - basicLogger - ERROR - Could not find Delivery at index 77
+2022-04-24 03:20:14,474 - basicLogger - INFO - Retrieving Delivery at index 20
+2022-04-24 03:20:15,660 - basicLogger - INFO - Retrieving Restaurant at index 29
+2022-04-24 03:20:15,694 - basicLogger - INFO - Retrieving Restaurant at index 78
+2022-04-24 03:20:16,664 - basicLogger - INFO - Retrieving Delivery at index 4
+2022-04-24 03:20:16,672 - basicLogger - ERROR - Could not find Restaurant at index 29
+2022-04-24 03:20:16,705 - basicLogger - ERROR - Could not find Restaurant at index 78
+2022-04-24 03:20:19,212 - basicLogger - INFO - Retrieving Delivery at index 70
+2022-04-24 03:20:20,221 - basicLogger - ERROR - Could not find Delivery at index 70
+2022-04-24 03:20:21,592 - basicLogger - INFO - Retrieving Restaurant at index 33
+2022-04-24 03:20:21,680 - basicLogger - INFO - Retrieving Delivery at index 7
+2022-04-24 03:20:21,684 - basicLogger - INFO - Retrieving Restaurant at index 5
+2022-04-24 03:20:22,603 - basicLogger - ERROR - Could not find Restaurant at index 33
+2022-04-24 03:20:22,698 - basicLogger - ERROR - Could not find Restaurant at index 5
+2022-04-24 03:20:24,703 - basicLogger - INFO - Retrieving Delivery at index 7
+2022-04-24 03:20:26,659 - basicLogger - INFO - Retrieving Delivery at index 60
+2022-04-24 03:20:27,671 - basicLogger - INFO - Retrieving Restaurant at index 96
+2022-04-24 03:20:27,763 - basicLogger - INFO - Retrieving Restaurant at index 83
+2022-04-24 03:20:28,679 - basicLogger - ERROR - Could not find Restaurant at index 96
+2022-04-24 03:20:28,773 - basicLogger - ERROR - Could not find Restaurant at index 83
+2022-04-24 03:20:29,736 - basicLogger - INFO - Retrieving Delivery at index 61
+2022-04-24 03:20:31,660 - basicLogger - INFO - Retrieving Delivery at index 98
+2022-04-24 03:20:32,669 - basicLogger - ERROR - Could not find Delivery at index 98
+2022-04-24 03:20:33,673 - basicLogger - INFO - Retrieving Restaurant at index 36
+2022-04-24 03:20:33,780 - basicLogger - INFO - Retrieving Restaurant at index 67
+2022-04-24 03:20:34,682 - basicLogger - ERROR - Could not find Restaurant at index 36
+2022-04-24 03:20:34,791 - basicLogger - ERROR - Could not find Restaurant at index 67
+2022-04-24 03:20:34,811 - basicLogger - INFO - Retrieving Delivery at index 85
+2022-04-24 03:20:37,663 - basicLogger - INFO - Retrieving Delivery at index 27
+2022-04-24 03:20:39,659 - basicLogger - INFO - Retrieving Restaurant at index 67
+2022-04-24 03:20:40,300 - basicLogger - INFO - Retrieving Delivery at index 9
+2022-04-24 03:20:40,303 - basicLogger - INFO - Retrieving Restaurant at index 1
+2022-04-24 03:20:40,670 - basicLogger - ERROR - Could not find Restaurant at index 67
+2022-04-24 03:20:41,317 - basicLogger - ERROR - Could not find Restaurant at index 1
+2022-04-24 03:20:42,666 - basicLogger - INFO - Retrieving Delivery at index 97
+2022-04-24 03:20:43,676 - basicLogger - ERROR - Could not find Delivery at index 97
+2022-04-24 03:20:45,268 - basicLogger - INFO - Retrieving Delivery at index 38
+2022-04-24 03:20:45,656 - basicLogger - INFO - Retrieving Restaurant at index 90
+2022-04-24 03:20:46,279 - basicLogger - ERROR - Could not find Delivery at index 38
+2022-04-24 03:20:46,478 - basicLogger - INFO - Retrieving Restaurant at index 73
+2022-04-24 03:20:46,665 - basicLogger - ERROR - Could not find Restaurant at index 90
+2022-04-24 03:20:47,487 - basicLogger - ERROR - Could not find Restaurant at index 73
+2022-04-24 03:20:48,659 - basicLogger - INFO - Retrieving Delivery at index 76
+2022-04-24 03:20:49,667 - basicLogger - ERROR - Could not find Delivery at index 76
+2022-04-24 03:20:50,497 - basicLogger - INFO - Retrieving Delivery at index 1
+2022-04-24 03:20:51,666 - basicLogger - INFO - Retrieving Restaurant at index 19
+2022-04-24 03:20:52,676 - basicLogger - ERROR - Could not find Restaurant at index 19
+2022-04-24 03:20:53,074 - basicLogger - INFO - Retrieving Restaurant at index 6
+2022-04-24 03:20:54,085 - basicLogger - ERROR - Could not find Restaurant at index 6
+2022-04-24 03:20:54,659 - basicLogger - INFO - Retrieving Delivery at index 43
+2022-04-24 03:20:55,585 - basicLogger - INFO - Retrieving Delivery at index 30
+2022-04-24 03:20:56,594 - basicLogger - ERROR - Could not find Delivery at index 30
+2022-04-24 03:20:57,654 - basicLogger - INFO - Retrieving Restaurant at index 37
+2022-04-24 03:20:58,664 - basicLogger - ERROR - Could not find Restaurant at index 37
+2022-04-24 03:20:58,899 - basicLogger - INFO - Retrieving Restaurant at index 34
+2022-04-24 03:20:59,659 - basicLogger - INFO - Retrieving Delivery at index 23
+2022-04-24 03:20:59,911 - basicLogger - ERROR - Could not find Restaurant at index 34
+2022-04-24 03:21:01,498 - basicLogger - INFO - Retrieving Delivery at index 87
+2022-04-24 03:21:03,672 - basicLogger - INFO - Retrieving Restaurant at index 56
+2022-04-24 03:21:04,664 - basicLogger - INFO - Retrieving Delivery at index 95
+2022-04-24 03:21:04,682 - basicLogger - ERROR - Could not find Restaurant at index 56
+2022-04-24 03:21:04,782 - basicLogger - INFO - Retrieving Restaurant at index 74
+2022-04-24 03:21:05,677 - basicLogger - ERROR - Could not find Delivery at index 95
+2022-04-24 03:21:05,794 - basicLogger - ERROR - Could not find Restaurant at index 74
+2022-04-24 03:21:06,703 - basicLogger - INFO - Retrieving Delivery at index 36
+2022-04-24 03:21:07,713 - basicLogger - ERROR - Could not find Delivery at index 36
+2022-04-24 03:21:09,662 - basicLogger - INFO - Retrieving Restaurant at index 70
+2022-04-24 03:21:10,266 - basicLogger - INFO - Retrieving Restaurant at index 36
+2022-04-24 03:21:10,664 - basicLogger - INFO - Retrieving Delivery at index 56
+2022-04-24 03:21:10,673 - basicLogger - ERROR - Could not find Restaurant at index 70
+2022-04-24 03:21:11,278 - basicLogger - ERROR - Could not find Restaurant at index 36
+2022-04-24 03:21:11,677 - basicLogger - ERROR - Could not find Delivery at index 56
+2022-04-24 03:21:12,582 - basicLogger - INFO - Retrieving Delivery at index 67
+2022-04-24 03:21:15,606 - basicLogger - INFO - Retrieving Restaurant at index 72
+2022-04-24 03:21:15,656 - basicLogger - INFO - Retrieving Restaurant at index 77
+2022-04-24 03:21:16,615 - basicLogger - ERROR - Could not find Restaurant at index 72
+2022-04-24 03:21:16,665 - basicLogger - ERROR - Could not find Restaurant at index 77
+2022-04-24 03:21:16,671 - basicLogger - INFO - Retrieving Delivery at index 80
+2022-04-24 03:21:17,524 - basicLogger - INFO - Retrieving Delivery at index 17
+2022-04-24 03:21:18,534 - basicLogger - ERROR - Could not find Delivery at index 17
+2022-04-24 03:21:21,666 - basicLogger - INFO - Retrieving Restaurant at index 11
+2022-04-24 03:21:21,669 - basicLogger - INFO - Retrieving Delivery at index 38
+2022-04-24 03:21:21,791 - basicLogger - INFO - Retrieving Restaurant at index 76
+2022-04-24 03:21:22,678 - basicLogger - ERROR - Could not find Restaurant at index 11
+2022-04-24 03:21:22,684 - basicLogger - ERROR - Could not find Delivery at index 38
+2022-04-24 03:21:22,800 - basicLogger - ERROR - Could not find Restaurant at index 76
+2022-04-24 03:21:23,767 - basicLogger - INFO - Retrieving Delivery at index 70
+2022-04-24 03:21:24,776 - basicLogger - ERROR - Could not find Delivery at index 70
+2022-04-24 03:21:27,622 - basicLogger - INFO - Retrieving Restaurant at index 60
+2022-04-24 03:21:27,666 - basicLogger - INFO - Retrieving Delivery at index 28
+2022-04-24 03:21:27,668 - basicLogger - INFO - Retrieving Restaurant at index 42
+2022-04-24 03:21:28,631 - basicLogger - ERROR - Could not find Restaurant at index 60
+2022-04-24 03:21:28,683 - basicLogger - ERROR - Could not find Restaurant at index 42
+2022-04-24 03:21:29,783 - basicLogger - INFO - Retrieving Delivery at index 8
+2022-04-24 03:21:32,655 - basicLogger - INFO - Retrieving Delivery at index 66
+2022-04-24 03:21:33,658 - basicLogger - INFO - Retrieving Restaurant at index 31
+2022-04-24 03:21:33,812 - basicLogger - INFO - Retrieving Restaurant at index 35
+2022-04-24 03:21:34,669 - basicLogger - ERROR - Could not find Restaurant at index 31
+2022-04-24 03:21:34,820 - basicLogger - ERROR - Could not find Restaurant at index 35
+2022-04-24 03:21:34,836 - basicLogger - INFO - Retrieving Delivery at index 70
+2022-04-24 03:21:35,848 - basicLogger - ERROR - Could not find Delivery at index 70
+2022-04-24 03:21:37,670 - basicLogger - INFO - Retrieving Delivery at index 24
+2022-04-24 03:21:39,518 - basicLogger - INFO - Retrieving Restaurant at index 52
+2022-04-24 03:21:39,656 - basicLogger - INFO - Retrieving Restaurant at index 60
+2022-04-24 03:21:40,527 - basicLogger - ERROR - Could not find Restaurant at index 52
+2022-04-24 03:21:40,575 - basicLogger - INFO - Retrieving Delivery at index 47
+2022-04-24 03:21:40,667 - basicLogger - ERROR - Could not find Restaurant at index 60
+2022-04-24 03:21:42,665 - basicLogger - INFO - Retrieving Delivery at index 48
+2022-04-24 03:21:45,531 - basicLogger - INFO - Retrieving Restaurant at index 72
+2022-04-24 03:21:45,533 - basicLogger - INFO - Retrieving Delivery at index 21
+2022-04-24 03:21:45,683 - basicLogger - INFO - Retrieving Restaurant at index 92
+2022-04-24 03:21:46,541 - basicLogger - ERROR - Could not find Restaurant at index 72
+2022-04-24 03:21:46,693 - basicLogger - ERROR - Could not find Restaurant at index 92
+2022-04-24 03:21:47,660 - basicLogger - INFO - Retrieving Delivery at index 59
+2022-04-24 03:21:48,668 - basicLogger - ERROR - Could not find Delivery at index 59
+2022-04-24 03:21:49,612 - basicLogger - INFO - Retrieving Delivery at index 36
+2022-04-24 03:21:50,619 - basicLogger - ERROR - Could not find Delivery at index 36
+2022-04-24 03:21:50,679 - basicLogger - INFO - Retrieving Restaurant at index 51
+2022-04-24 03:21:51,681 - basicLogger - INFO - Retrieving Restaurant at index 27
+2022-04-24 03:21:51,691 - basicLogger - ERROR - Could not find Restaurant at index 51
+2022-04-24 03:21:52,694 - basicLogger - ERROR - Could not find Restaurant at index 27
+2022-04-24 03:21:53,698 - basicLogger - INFO - Retrieving Delivery at index 91
+2022-04-24 03:21:54,709 - basicLogger - ERROR - Could not find Delivery at index 91
+2022-04-24 03:21:55,648 - basicLogger - INFO - Retrieving Delivery at index 47
+2022-04-24 03:21:56,556 - basicLogger - INFO - Retrieving Restaurant at index 94
+2022-04-24 03:21:57,566 - basicLogger - ERROR - Could not find Restaurant at index 94
+2022-04-24 03:21:57,654 - basicLogger - INFO - Retrieving Restaurant at index 30
+2022-04-24 03:21:58,663 - basicLogger - ERROR - Could not find Restaurant at index 30
+2022-04-24 03:21:59,672 - basicLogger - INFO - Retrieving Delivery at index 28
+2022-04-24 03:22:01,323 - basicLogger - INFO - Retrieving Delivery at index 59
+2022-04-24 03:22:02,332 - basicLogger - ERROR - Could not find Delivery at index 59
+2022-04-24 03:22:02,501 - basicLogger - INFO - Retrieving Restaurant at index 98
+2022-04-24 03:22:03,509 - basicLogger - ERROR - Could not find Restaurant at index 98
+2022-04-24 03:22:03,657 - basicLogger - INFO - Retrieving Restaurant at index 11
+2022-04-24 03:22:04,664 - basicLogger - INFO - Retrieving Delivery at index 48
+2022-04-24 03:22:04,667 - basicLogger - ERROR - Could not find Restaurant at index 11
+2022-04-24 03:22:06,843 - basicLogger - INFO - Retrieving Delivery at index 1
+2022-04-24 03:22:08,882 - basicLogger - INFO - Retrieving Restaurant at index 6
+2022-04-24 03:22:09,666 - basicLogger - INFO - Retrieving Delivery at index 0
+2022-04-24 03:22:09,670 - basicLogger - INFO - Retrieving Restaurant at index 41
+2022-04-24 03:22:09,891 - basicLogger - ERROR - Could not find Restaurant at index 6
